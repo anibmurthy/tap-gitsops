@@ -1,0 +1,7 @@
+---
+git:
+  url: https://github.com/anibmurthy/tap-gitsops.git
+  ref: origin/main
+  sub_path: clusters/gke_dp-app-dash-ply-ab_us-east4_gitsops/cluster-config
+tap_package_repository:
+  oci_repository: registry.tanzu.vmware.com/tanzu-application-platform/tap-packages
